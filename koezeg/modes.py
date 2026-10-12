@@ -53,4 +53,11 @@ MODES = {
         "tongue": "  ",
         "help": "Youthfull mode (tiny eyes)",
     },
+    "think": {
+        "flag": "think",
+        "eyes": "oo",
+        "tongue": "  ",
+        "help": "Think mode (thought bubble instead of speech bubble)",
+
+    }
 }
