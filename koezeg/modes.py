@@ -8,7 +8,7 @@ Every mode has:
 """
 
 # The face of a normal cow, when no mode flag is given.
-DEFAULT_MODE = {"eyes": "oo", "tongue": "  "}
+DEFAULT_MODE = {"eyes": "oo", "tongue": "  ", "thoughts": "\\", "bubble": "say"}
 
 MODES = {
     "borg": {
@@ -57,6 +57,8 @@ MODES = {
         "flag": "think",
         "eyes": "oo",
         "tongue": "  ",
+        "thoughts": "o",
+        "bubble": "think",
         "help": "Think mode (thought bubble instead of speech bubble)",
 
     }
